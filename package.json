@@ -3,12 +3,11 @@
   "name": "namegen",
   "description": "Generate random names",
   "version": "0.0.0",
+  "bin": "./bin/namegen.sh",
   "repository": {
     "url": "https://github.com/carlos8f/namegen.git"
   },
-  "dependencies": {},
-  "devDependencies": {},
-  "optionalDependencies": {},
+  "homepage": "https://github.com/carlos8f/node-namegen",
   "engines": {
     "node": ">= 0.6.0"
   }
